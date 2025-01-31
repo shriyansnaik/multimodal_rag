@@ -1,3 +1,7 @@
+## Demo
+
+Uploading multimodalrag_demo.mp4…
+
 ## How It Works
 
 The Multimodal RAG Chat Assistant combines **Retrieval-Augmented Generation (RAG)** with **multimodal llm capabilities** to process and interact with PDF documents. Here's a step-by-step breakdown of how the system works:
